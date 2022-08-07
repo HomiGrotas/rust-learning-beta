@@ -1,0 +1,5 @@
+1. let is missing before variable name.
+2. variable is missing value
+3. variable is missing value
+4. variable isn't decalared as mutable. need to add 'mut' between 'let' and variable name
+5. since using 'shadowing', we need to use 'let' again in line 9.
